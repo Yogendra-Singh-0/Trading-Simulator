@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+backend.log
+trading_data.json
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+frontend.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
